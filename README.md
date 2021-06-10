@@ -33,7 +33,7 @@ My Github Stats
 
 ![Setkeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=setkeh&count_private=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setkeh&theme=dark&layout=compact)](https://github.com/setkeh)
 
-<div align="center"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=setkeh&theme=dark&hide_border=true)](https://git.io/streak-stats) </div>
+<a align="center" href="stats">![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=setkeh&theme=dark&hide_border=true)</a>
 
 <!--
 **setkeh/setkeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
